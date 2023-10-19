@@ -7,7 +7,7 @@
     <ProjectGuid>{DC761A29-85A1-4BD5-8D1F-6C93BCB140D6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>form_update</RootNamespace>
-    <AssemblyName>form update</AssemblyName>
+    <AssemblyName>form_update</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -23,9 +23,10 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/CANER-CDR/WinFormsAutoUpdate/blob/main/published/</InstallUrl>
+    <UpdateUrl>https://github.com/CANER-CDR/WinFormsAutoUpdate/tree/main/published/</UpdateUrl>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>5</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -61,6 +62,9 @@
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>form_update.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

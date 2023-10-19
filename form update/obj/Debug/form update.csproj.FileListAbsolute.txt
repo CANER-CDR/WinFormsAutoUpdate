@@ -1,14 +1,14 @@
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form update.exe.config
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form update.exe.manifest
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form update.application
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form update.exe
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form update.pdb
 C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.csproj.AssemblyReference.cache
 C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.Form1.resources
 C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.Properties.Resources.resources
 C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.csproj.GenerateResource.cache
 C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.csproj.CoreCompileInputs.cache
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.exe.manifest
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.application
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.exe
-C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form update.pdb
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form_update.exe.config
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form_update.exe.manifest
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form_update.application
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form_update.exe
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\bin\Debug\form_update.pdb
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.exe.manifest
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.application
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.exe
+C:\Users\CANER\Music\WinFormsAutoUpdate\form update\obj\Debug\form_update.pdb
