@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>form_update</name>
+    </assembly>
+    <members>
+        <member name="F:form_update.Form1.components">
+             <summary>
+            Gerekli tasarımcı değişkeni.
+             </summary>
+        </member>
+        <member name="M:form_update.Form1.Dispose(System.Boolean)">
+             <summary>
+            Kullanılan tüm kaynakları temizleyin.
+             </summary>
+            <param name="disposing">yönetilen kaynaklar dispose edilmeliyse doğru; aksi halde yanlış.</param>
+        </member>
+        <member name="M:form_update.Form1.InitializeComponent">
+             <summary>
+             Tasarımcı desteği için gerekli metot - bu metodun 
+            içeriğini kod düzenleyici ile değiştirmeyin.
+             </summary>
+        </member>
+        <member name="M:form_update.Program.Main">
+            <summary>
+            Uygulamanın ana girdi noktası.
+            </summary>
+        </member>
+        <member name="T:form_update.Properties.Resources">
+            <summary>
+              Yerelleştirilmiş dizeleri vs. aramak için türü kesin belirlenmiş bir kaynak sınıfı.
+            </summary>
+        </member>
+        <member name="P:form_update.Properties.Resources.ResourceManager">
+            <summary>
+              Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+            </summary>
+        </member>
+        <member name="P:form_update.Properties.Resources.Culture">
+            <summary>
+              Geçerli iş parçacığının CurrentUICulture özelliğini, türü kesin belirlenmiş
+              bu kaynak sınıfını kullanan tüm kaynak aramaları için geçersiz kılar.
+            </summary>
+        </member>
+    </members>
+</doc>
