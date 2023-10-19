@@ -4,7 +4,7 @@
     <PublishUrlHistory>C:\Users\CANER\Music\WinFormsAutoUpdate\published\</PublishUrlHistory>
     <InstallUrlHistory>https://github.com/CANER-CDR/WinFormsAutoUpdate/blob/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>https://github.com/CANER-CDR/WinFormsAutoUpdate/tree/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>tr-TR</FallbackCulture>
